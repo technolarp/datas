@@ -1,0 +1,114 @@
+[
+    {
+        "names": {
+            "technical": "cloneur_rfid_01"
+        },
+        "descriptions": {
+            "short": "Un cloneur de tag RFID"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/cloneur_rfid_01",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/cloneur_rfid_01/releases"
+            }
+        }
+    },
+    {
+        "names": {
+            "technical": "serrure_rfid_01"
+        },
+        "descriptions": {
+            "short": "Une serrure avec badge RFID"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/serrure_rfid_01",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/serrure_rfid_01/releases"
+            }
+        }
+    },
+    {
+        "names": {
+            "technical": "serrure_clavier_01"
+        },
+        "descriptions": {
+            "short": "Une serrure simple avec un clavier 4*4 et des leds"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/serrure_clavier_01",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/serrure_clavier_01/releases"
+            }
+        }
+    },
+    {
+        "names": {
+            "technical": "serrure_medfan_01"
+        },
+        "descriptions": {
+            "short": "Une serrure d'allure magique pour les univers med-fan"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/serrure_medfan_01",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/serrure_medfan_01/releases"
+            }
+        }
+    },
+    {
+        "names": {
+            "technical": "serrure_medfan_02"
+        },
+        "descriptions": {
+            "short": "Une serrure d'allure magique pour les univers med-fan"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/serrure_medfan_02",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/serrure_medfan_02/releases"
+            }
+        }
+    },
+    {
+        "names": {
+            "technical": "bombe_7segment_01"
+        },
+        "descriptions": {
+            "short": "Une bombe paramétrable avec un afficheur 4*7segment"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/bombe_7segment_01",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/bombe_7segment_01/releases"
+            }
+        }
+    },
+    {
+        "names": {
+            "technical": "vumetre_01"
+        },
+        "descriptions": {
+            "short": "Un vu-mètre pilotable par potentiomètre"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/vumetre_01",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/vumetre_01/releases"
+            }
+        }
+    },
+    {
+        "names": {
+            "technical": "panneau_01"
+        },
+        "descriptions": {
+            "short": "Un panneau lumineux commandable via une interface web"
+        },
+        "urls": {
+            "repository": "https://github.com/technolarp/panneau_01",
+            "apis": {
+                "relases": "https://api.github.com/repos/technolarp/panneau_01/releases"
+            }
+        }
+    }
+]
